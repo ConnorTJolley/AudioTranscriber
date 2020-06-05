@@ -1,0 +1,10 @@
+C:\Dev\PersonalDev\AudioTranscriber\AudioTranscriber\bin\Debug\AudioTranscriber.exe.config
+C:\Dev\PersonalDev\AudioTranscriber\bin\Debug\AudioTranscriber.exe.config
+C:\Dev\PersonalDev\AudioTranscriber\bin\Debug\AudioTranscriber.exe
+C:\Dev\PersonalDev\AudioTranscriber\bin\Debug\AudioTranscriber.pdb
+C:\Dev\PersonalDev\AudioTranscriber\obj\Debug\AudioTranscriber.csprojResolveAssemblyReference.cache
+C:\Dev\PersonalDev\AudioTranscriber\obj\Debug\AudioTranscriber.MainForm.resources
+C:\Dev\PersonalDev\AudioTranscriber\obj\Debug\AudioTranscriber.Properties.Resources.resources
+C:\Dev\PersonalDev\AudioTranscriber\obj\Debug\AudioTranscriber.csproj.GenerateResource.Cache
+C:\Dev\PersonalDev\AudioTranscriber\obj\Debug\AudioTranscriber.exe
+C:\Dev\PersonalDev\AudioTranscriber\obj\Debug\AudioTranscriber.pdb
